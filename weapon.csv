@@ -1,0 +1,28 @@
+weapon_id,weapontype,weapsubtype
+420,Chemical,nan
+172,Explosives,Grenade
+60,Explosives,Landmine
+145,Explosives,Letter Bomb
+6,Explosives,Other Explosive Type
+512,Explosives,Pressure Trigger
+17,Explosives,"Projectile (rockets, mortars, RPGs, etc.)"
+82,Explosives,Remote Trigger
+443,Explosives,Suicide (carried bodily by human being)
+16,Explosives,Time Fuse
+15,Explosives,Unknown Explosive Type
+18,Explosives,Vehicle
+121,Fake Weapons,nan
+23,Firearms,Automatic or Semi-Automatic Rifle
+47,Firearms,Handgun
+101,Firearms,Other Gun Type
+26,Firearms,Rifle/Shotgun (non-automatic)
+1,Firearms,Unknown Gun Type
+13,Incendiary,Arson/Fire
+29,Incendiary,Gasoline or Alcohol
+113,Incendiary,nan
+32,Melee,Blunt Object
+340,Melee,"Hands, Feet, Fists"
+5,Melee,Knife or Other Sharp Object
+442,Other,Knife or Other Sharp Object
+21,Unknown,nan
+229,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",nan

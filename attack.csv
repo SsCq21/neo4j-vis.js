@@ -1,0 +1,10 @@
+attack_id,attack_type
+1,Armed_Assault
+53,Assassination
+11,Bombing/Explosion
+18,Facility/Infrastructure Attack
+60,Hijacking
+119,Hostage Taking (Barricade Incident)
+26,Hostage Taking (Kidnapping)
+126,Unarmed Assault
+336,Unknown

@@ -1,0 +1,391 @@
+region_id,region,country,provstate,city
+40,Australasia & Oceania,Papua New Guinea,East Sepik (Province),Nimo
+48,Australasia & Oceania,Papua New Guinea,Unknown,Liatora
+120,Central America & Caribbean,Costa Rica,San Jose (Province),San Jose
+528,Central America & Caribbean,El Salvador,San Salvador (Department),San Salvador
+493,Central America & Caribbean,Guatemala,Guatemala City (Capital District),Guatemala City
+504,Central America & Caribbean,Haiti,Port-au-Prince (Capital City),Port-au-Prince
+459,Central America & Caribbean,Nicaragua,Managua (Administrative Region),Managua
+480,Central America & Caribbean,Nicaragua,Matagalpa (Department),San Ramon
+452,Central America & Caribbean,Nicaragua,Quilali (Administrative Region),Caulata
+79,Central America & Caribbean,Panama,Darien (Province),Boca de Cupe
+234,Central America & Caribbean,Panama,Panama (Province),Panama
+521,Central Asia,Azerbaijan,Baku (Capital District),Baku
+429,Central Asia,Georgia,Kvemo Kartli (Region),Marneuli
+568,Central Asia,Tajikistan,Gorno-Badakhshan (Autonomous Region),Khorog
+426,East Asia,China,Beijing (Municipality),Beijing
+371,East Asia,Japan,Osaka (Prefecture),Osaka
+117,East Asia,Japan,Tokyo (Prefecture),Tokyo
+435,Eastern Europe,Belarus,Minsk (Province),Minsk
+492,Eastern Europe,Croatia,Western Slovania (Region),Kusonje
+104,Eastern Europe,Croatia,Zagreb (City District),Zagreb
+543,Eastern Europe,Estonia,Harju (County),Tallinn
+545,Eastern Europe,Latvia,Riga (County),Riga
+262,Eastern Europe,Romania,Bucharest (Municipality),Bucharest
+418,Eastern Europe,Russia,Chechnya (Republic),Grozny
+514,Eastern Europe,Russia,Moscow (Oblast),Moscow
+400,Eastern Europe,Russia,North Ossetia (Republic),Vladikavkaz
+740,Eastern Europe,Russia,Rostov (Oblast),Rostov-on-Don
+294,Eastern Europe,Yugoslavia,Belgrade (District),Belgrade
+18,Eastern Europe,Yugoslavia,Zlatibor (District),Sjenica
+704,Middle East & North Africa,Algeria,Ain Defla (Province),Khemis Miliana
+150,Middle East & North Africa,Algeria,Algiers (Province),Algiers
+607,Middle East & North Africa,Algeria,Algiers (Province),Algiers Province
+460,Middle East & North Africa,Algeria,Algiers (Province),Bordj el-Bahri
+687,Middle East & North Africa,Algeria,Algiers (Province),El-Harrash
+731,Middle East & North Africa,Algeria,Blida (Province),Blida
+605,Middle East & North Africa,Algeria,Blida (Province),Blida Province
+93,Middle East & North Africa,Algeria,Boumerdes (Province),Reghaia
+680,Middle East & North Africa,Algeria,Chlef (Province),Tenes
+592,Middle East & North Africa,Algeria,Laghouat (Province),Laghouat
+601,Middle East & North Africa,Algeria,Tiaret (Province),Tiaret
+534,Middle East & North Africa,Algeria,Unknown,Tlelac
+20,Middle East & North Africa,Egypt,Al Fayyum (Governorate),Al-Fayyum
+86,Middle East & North Africa,Egypt,Al Jizah (Governorate),Giza
+194,Middle East & North Africa,Egypt,Al Minya (Governorate),Al Qusiya
+21,Middle East & North Africa,Egypt,Al Qahirah (Governorate),Cairo
+688,Middle East & North Africa,Egypt,Al Qahirah (Governorate),Heliopolis
+724,Middle East & North Africa,Egypt,Al Qahirah (Governorate),Helwan
+128,Middle East & North Africa,Egypt,Aswan (Governorate),Aswan
+499,Middle East & North Africa,Egypt,Aswan (Governorate),Dayrut
+198,Middle East & North Africa,Egypt,Asyut (Governorate),Abu Tig
+97,Middle East & North Africa,Egypt,Asyut (Governorate),Asyut
+14,Middle East & North Africa,Egypt,Asyut (Governorate),Dayrut
+447,Middle East & North Africa,Egypt,Asyut (Governorate),Manfalut
+532,Middle East & North Africa,Egypt,Asyut (Governorate),Nazlet Bakour
+422,Middle East & North Africa,Egypt,Asyut (Governorate),Qussiya
+9,Middle East & North Africa,Egypt,Qena (Governorate),Luxor
+414,Middle East & North Africa,Egypt,Qena (Governorate),Nag Hammadi
+683,Middle East & North Africa,Egypt,Qina (Governorate),Qina
+127,Middle East & North Africa,Egypt,Sohag (Governorate),Sohag
+551,Middle East & North Africa,Egypt,Suez (Governorate),Suez City
+696,Middle East & North Africa,Iran,Kohgiluyen va Buyer Ahmad (Province),Gachsaran
+427,Middle East & North Africa,Iran,Tehran (Province),Tehran
+727,Middle East & North Africa,Iraq,Baghdad (Governorate),Baghdad
+697,Middle East & North Africa,Iraq,Dahuk (Province),Atrush
+730,Middle East & North Africa,Iraq,Sulaymaniyah (Governorate),Sulaymaniyah
+656,Middle East & North Africa,Israel,Central (District),Netanya
+502,Middle East & North Africa,Israel,Gaza Strip (Occupied Territory),Ashdod
+542,Middle East & North Africa,Israel,Gaza Strip (Occupied Territory),Moshav Batzra
+728,Middle East & North Africa,Israel,Gaza Strip (Occupied Territory),Nahal Oz
+536,Middle East & North Africa,Israel,Gush Dan (Region),Batzna
+573,Middle East & North Africa,Israel,Hazafon (District),Rosh Hanikra
+370,Middle East & North Africa,Israel,Hazafon (District),Western Galilee
+146,Middle East & North Africa,Israel,Jerusalem (District),Jerusalem
+11,Middle East & North Africa,Israel,Jerusalem (District),West Jerusalem
+124,Middle East & North Africa,Israel,North (District),Nazareth
+743,Middle East & North Africa,Israel,Southern (District),Eilat
+710,Middle East & North Africa,Israel,Tel Aviv (District),Holon
+12,Middle East & North Africa,Israel,Tel Aviv (District),Tel Aviv
+129,Middle East & North Africa,Israel,Unknown,Unknown
+319,Middle East & North Africa,Israel,Upper Galilee (Region),Upper Galilee
+148,Middle East & North Africa,Kuwait,Al Farwaniyah (Province),Farwaniyah
+122,Middle East & North Africa,Lebanon,Beirut (Governorate),Beirut
+188,Middle East & North Africa,Lebanon,Nabatiye (Governorate),Arnoun
+359,Middle East & North Africa,Lebanon,Nabatiye (Governorate),Hanin
+215,Middle East & North Africa,Lebanon,Nabatiye (Governorate),Razlan
+201,Middle East & North Africa,Lebanon,Nabatiyeh (Governorate),Kafra
+204,Middle East & North Africa,Lebanon,Nabatiyeh (Governorate),Qabrikha
+168,Middle East & North Africa,Lebanon,South (Governorate),Aramta
+574,Middle East & North Africa,Lebanon,South (Governorate),Barasheet
+487,Middle East & North Africa,Lebanon,South (Governorate),Jezzine
+333,Middle East & North Africa,Lebanon,South (Governorate),Jezzine District
+202,Middle East & North Africa,Lebanon,South (Governorate),Qantara
+66,Middle East & North Africa,Lebanon,South (Governorate),Ruman
+205,Middle East & North Africa,Lebanon,South (Governorate),Sidon
+74,Middle East & North Africa,Lebanon,South (Governorate),Soujud
+488,Middle East & North Africa,Lebanon,South (Governorate),Tallousa
+109,Middle East & North Africa,Lebanon,South (Governorate),Talousa
+15,Middle East & North Africa,Lebanon,South (Governorate),UNIFIL Security Zone
+500,Middle East & North Africa,Lebanon,South (Governorate),Unknown
+318,Middle East & North Africa,Lebanon,UNIFIL Security Zone,Beit Yahoun
+340,Middle East & North Africa,Lebanon,UNIFIL Security Zone,Shoumariya
+242,Middle East & North Africa,Lebanon,UNIFIL Security Zone,Unknown
+271,Middle East & North Africa,Lebanon,Unknown,Dib'l Village
+446,Middle East & North Africa,Tunisia,Tunis (Governorate),Tunis
+454,Middle East & North Africa,Turkey,Agri (Province),Dogubeyazit
+26,Middle East & North Africa,Turkey,Ankara (Province),Ankara
+354,Middle East & North Africa,Turkey,Antalya (Province),Antalya
+396,Middle East & North Africa,Turkey,Aydin (Province),Kusadasi
+300,Middle East & North Africa,Turkey,Batman (Province),Dortboluk
+461,Middle East & North Africa,Turkey,Batman (Province),Kozluk
+358,Middle East & North Africa,Turkey,Bingol (Province),Genc
+62,Middle East & North Africa,Turkey,Diyarbakir (Province),Diyarbakir
+436,Middle East & North Africa,Turkey,Diyarbakir (Province),Eskin village
+453,Middle East & North Africa,Turkey,Diyarbakir (Province),Ulucami
+367,Middle East & North Africa,Turkey,Erzincan (Province),Basbaglar
+597,Middle East & North Africa,Turkey,Igdir (Province),Aralik District
+584,Middle East & North Africa,Turkey,Igdir (Province),Asagi Alican
+388,Middle East & North Africa,Turkey,Istanbul (Province),Istanbul
+365,Middle East & North Africa,Turkey,Sivas (Province),Sivas
+374,Middle East & North Africa,Turkey,Unknown,Mutki District
+152,Middle East & North Africa,Turkey,Unknown,Unknown
+602,Middle East & North Africa,West Bank and Gaza Strip,Gaza Strip (Occupied Territory),Gaza
+210,Middle East & North Africa,West Bank and Gaza Strip,Gaza Strip (Occupied Territory),Gaza City
+606,Middle East & North Africa,West Bank and Gaza Strip,Gaza Strip (Occupied Territory),Gaza Strip
+166,Middle East & North Africa,West Bank and Gaza Strip,Gaza Strip (Occupied Territory),Jabaliya
+530,Middle East & North Africa,West Bank and Gaza Strip,Gaza Strip (Occupied Territory),Jabalya
+76,Middle East & North Africa,West Bank and Gaza Strip,Gaza Strip (Occupied Territory),Unknown
+232,Middle East & North Africa,West Bank and Gaza Strip,Jerusalem (District),Jerusalem
+53,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),Beit Sahur
+739,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),Beitunia
+412,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),Deir Ballut
+506,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),Halhoul
+37,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),Hebron
+572,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),Jericho
+627,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),Kalkilya
+457,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),Ma'aleh Adumim
+207,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),Mehola
+253,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),Nablus
+598,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),Nabulus
+408,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),Ramallah
+165,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),Unknown
+715,Middle East & North Africa,West Bank and Gaza Strip,West Bank (Occupied Territory),West Bank
+276,Middle East & North Africa,Yemen,Ma'rib (Governorate),Ma'rib
+68,Middle East & North Africa,Yemen,Sana'a (Governorate),Sana'a
+82,Middle East & North Africa,Yemen,Sana'a (Province),Dhinm
+125,Middle East & North Africa,Yemen,Sanna (Governorate),Sanaa
+535,North America,United States,California,Bakersfield
+497,North America,United States,California,Newport Beach
+383,North America,United States,California,Sacramento
+343,North America,United States,California,Tiburon
+657,North America,United States,California,Ventura
+52,North America,United States,California,Westminster
+345,North America,United States,Connecticut,New Haven
+610,North America,United States,Florida,Miami
+123,North America,United States,Florida,Pensacola
+87,North America,United States,Florida,Venice
+281,North America,United States,Idaho,Boise
+51,North America,United States,Illinois,Chicago
+540,North America,United States,Illinois,Peoria
+456,North America,United States,Kansas,Wichita
+282,North America,United States,Missouri,Kansas City
+179,North America,United States,Montana,Missoula
+630,North America,United States,Nevada,Reno
+101,North America,United States,New York,New York City
+255,North America,United States,Oregon,Forest Grove
+378,North America,United States,Pennsylvania,Lancaster
+665,North America,United States,Pennsylvania,York
+96,North America,United States,Texas,Corpus Christi
+575,North America,United States,Texas,Houston
+70,North America,United States,Virginia,Langley
+386,North America,United States,Washington,Seattle
+385,North America,United States,Washington,Tacoma
+245,South America,Argentina,Buenos Aires (Province),Buenos Aires
+39,South America,Bolivia,Chuquisaca (Department),Sucre
+265,South America,Bolivia,Unknown,Unknown
+666,South America,Chile,Los Lagos (Region),Osorno
+243,South America,Chile,Santiago Metropolitan Region (Region),Santiago
+24,South America,Colombia,Antioquia (Department),Medellin
+406,South America,Colombia,Antioquia (Department),Remedios
+57,South America,Colombia,Bogota (Capital District),Bogota
+285,South America,Colombia,Bolivar (Department),San Jacinto
+49,South America,Colombia,Casanares (Department),Unknown
+98,South America,Colombia,Choco (Department),Choco
+481,South America,Colombia,Tolima (Department),Tolima
+326,South America,Ecuador,Pichincha (Province),Quito
+690,South America,Paraguay,Asuncion (Capital City),Asuncion
+227,South America,Peru,Ancash (Region),Huaraz
+258,South America,Peru,Arequipa (Province),Arequipa
+183,South America,Peru,Ayacucho (Province),Ayacucho
+591,South America,Peru,Cajamarca (Region),Accha District
+588,South America,Peru,Cajamarca (Region),Pampash
+589,South America,Peru,Cajamarca (Region),Puno
+587,South America,Peru,Chachapoyas (Province),Chuquibamba
+42,South America,Peru,Lima (Province),Lima
+25,South America,Peru,San Martin (Region),Moyobamba
+189,South America,Peru,Sanchez Carrion (Province),Quisquenda
+448,South America,Peru,Unknown,Unknown
+69,South America,Venezuela,Caracas (Capital District),Caracas
+43,South Asia,Afghanistan,Kabul (Province),Kabul
+219,South Asia,Afghanistan,Kandahar (Province),Spin Boldak
+658,South Asia,Afghanistan,Kapisa (Province),Tagab
+717,South Asia,India,Andhra Pradesh (State),Hyderabad
+78,South Asia,India,Andhra Pradesh (State),Warangal
+61,South Asia,India,Bihar (State),Patna
+718,South Asia,India,Gujarat (State),Surat City
+175,South Asia,India,Haryana (State),New Delhi
+299,South Asia,India,Jammu and Kashmir (State),Budhan Rafiabad
+445,South Asia,India,Jammu and Kashmir (State),Kishtwar
+71,South Asia,India,Jammu and Kashmir (State),Srinagar
+131,South Asia,India,Maharashtra (State),Mumbai
+470,South Asia,India,Manipur (State),Imphal
+177,South Asia,India,National Capital Territory of Delhi (Union Territory),New Delhi
+419,South Asia,India,Tamil Nadu (State),Madras
+180,South Asia,India,Uttar Pradesh (State),Gola Gokarnnath
+325,South Asia,India,Uttar Pradesh (State),Tikamgrah
+158,South Asia,India,West Bengal (State),Calcutta
+489,South Asia,Pakistan,Balochistan (Province),Quetta
+547,South Asia,Pakistan,Khanewal (District),Mian Channu
+402,South Asia,Pakistan,Punjab (Province),Lahore
+58,South Asia,Pakistan,Sindh (Province),Hyderabad
+151,South Asia,Pakistan,Sindh (Province),Karachi
+664,South Asia,Sri Lanka,North (Province),Kilinochchi District
+387,South Asia,Sri Lanka,North (Province),Unknown
+10,South Asia,Sri Lanka,North (Province),Vavuniya
+239,South Asia,Sri Lanka,Western (Province),Colombo
+220,South Asia,Sri Lanka,Western (Province),Kirrilapone
+250,Southeast Asia,Cambodia,Banteay Meanchey (Province),Ampil
+203,Southeast Asia,Cambodia,Banteay Meanchey (Province),Sisophon
+238,Southeast Asia,Cambodia,Banteay Meanchey (Province),Thmar Puok
+291,Southeast Asia,Cambodia,Kampong Cham (Province),Mimot District
+269,Southeast Asia,Cambodia,Kampong Cham (Province),Skun
+252,Southeast Asia,Cambodia,Kampong Speu (Province),Tpong District
+273,Southeast Asia,Cambodia,Kampot (Province),Unknown
+248,Southeast Asia,Cambodia,Kompong Cham (Province),Unknown
+423,Southeast Asia,Cambodia,Kompong Chhnang (Province),Tonle Sap
+213,Southeast Asia,Cambodia,Kompong Speu (Province),New Oral
+184,Southeast Asia,Cambodia,Kompong Speu (Province),Phum Prek
+195,Southeast Asia,Cambodia,Kompong Thom (Province),Kompong Thom
+182,Southeast Asia,Cambodia,Kompong Thom (Province),Unknown
+237,Southeast Asia,Cambodia,Kratie (Province),Unknown
+178,Southeast Asia,Cambodia,Phnom Penh (Province),Phnom Penh
+308,Southeast Asia,Cambodia,Preah Vihear (Province),Phnum Tbeng Meanchey
+186,Southeast Asia,Cambodia,Siem Reap (Province),Bang Kaong
+187,Southeast Asia,Cambodia,Siem Reap (Province),Kralanh District
+126,Southeast Asia,Cambodia,Siem Reap (Province),Moat Peam
+91,Southeast Asia,Cambodia,Siem Reap (Province),Siem Reap
+280,Southeast Asia,Cambodia,Siem Reap (Province),Sot Nikun District
+185,Southeast Asia,Cambodia,Stung Treng (Province),Unknown
+29,Southeast Asia,Cambodia,Unknown,Ang Kron
+50,Southeast Asia,Cambodia,Unknown,Unknown
+586,Southeast Asia,Myanmar,Mon (State),Lamaing village
+229,Southeast Asia,Myanmar,Yangon (Division),Yangon
+163,Southeast Asia,Philippines,Basilan (Province),Basilan Island
+744,Southeast Asia,Philippines,Davao (Region),Davao
+729,Southeast Asia,Philippines,Maguindanao (Province),Buluan
+233,Southeast Asia,Philippines,Rizal (Province),Manila
+670,Southeast Asia,Philippines,Sulu (Province),Pangutaran Island
+106,Southeast Asia,Philippines,Zamboanga Sibugay (Province),Zamboanga City
+463,Southeast Asia,Thailand,Narathiwat (Province),Rangae
+100,Southeast Asia,Thailand,Songkla (Province),Unknown
+473,Sub-Saharan Africa,Angola,Huambo (Province),Cambambo and Cabal
+578,Sub-Saharan Africa,Angola,Luanda (Province),Luanda
+230,Sub-Saharan Africa,Angola,Moxico (Province),Luena
+211,Sub-Saharan Africa,Angola,Zaire (Province),Mbanza Congo
+149,Sub-Saharan Africa,Ethiopia,Dire Dawa (Chartered City),Dire Dawa
+611,Sub-Saharan Africa,Niger,Niamey (Capital District),Niamey
+217,Sub-Saharan Africa,Rwanda,Kigali (Province),Kigali
+475,Sub-Saharan Africa,Sierra Leone,Southern (Province),Golahun
+298,Sub-Saharan Africa,Somalia,Banaadir (Region),Mogadishu
+742,Sub-Saharan Africa,Somalia,Bay (Region),Baidoa
+209,Sub-Saharan Africa,Somalia,Lower Jubba (Region),Kismayu
+409,Sub-Saharan Africa,Somalia,Shabeellaha Hoose (Region),Beli Dogle
+246,Sub-Saharan Africa,South Africa,Eastern Cape (Province),East London
+197,Sub-Saharan Africa,South Africa,Gauteng (Province),Boksburg
+164,Sub-Saharan Africa,South Africa,Gauteng (Province),Johannesburg
+30,Sub-Saharan Africa,South Africa,Gauteng (Province),Randfontein
+491,Sub-Saharan Africa,South Africa,Gauteng (Province),Wadeville
+701,Sub-Saharan Africa,South Africa,KwaZulu-Natal (Province),Durban
+112,Sub-Saharan Africa,South Africa,KwaZulu-Natal (Province),Pietermaritzburg
+594,Sub-Saharan Africa,South Africa,KwaZulu-Natal (Province),Pongweni
+702,Sub-Saharan Africa,South Africa,KwaZulu-Natal (Province),Port Edwards
+216,Sub-Saharan Africa,South Africa,KwaZulu-Natal (Province),Richmond
+474,Sub-Saharan Africa,South Africa,Western Cape (Province),Beaufort West
+755,Sub-Saharan Africa,South Africa,Western Cape (Province),Cape Town
+390,Sub-Saharan Africa,South Africa,Western Cape (Province),Kenilworth
+544,Sub-Saharan Africa,Tanzania,Dar es Salaam (Region),Dar es Salaam
+173,Sub-Saharan Africa,Togo,Maritime (Region),Lome
+27,Sub-Saharan Africa,Uganda,Unknown,Unknown
+663,Western Europe,Austria,Oberoesterreich (State),Linz
+705,Western Europe,Austria,Steiermark (State),Hartberg
+713,Western Europe,Austria,Unknown,Unknown
+634,Western Europe,Austria,Vienna (State),Vienna
+653,Western Europe,Denmark,Copenhagen (Region),Copenhagen
+649,Western Europe,Denmark,Hovedstaden (Region),Copenhagen
+645,Western Europe,France,Alsace (Region),Strasbourg
+348,Western Europe,France,Bouches-du-Rhône (Department),Marseille
+45,Western Europe,France,Corsica,Bonifacio
+46,Western Europe,France,Corsica,Porto-Vecchio
+322,Western Europe,France,Corsica,Sainte-Lucie-de-Ponte-Vecchio
+47,Western Europe,France,Corsica,Unknown
+323,Western Europe,France,Corsica,Zonza
+244,Western Europe,France,Midi-Pyrenees (Region),Pyrenees
+263,Western Europe,France,Paris (Department),Paris
+703,Western Europe,France,Pyrénées-Atlantiques (Department),Saint-Jean-Pied-de-Port
+297,Western Europe,Germany,Baden-Wurttemberg (State),Konstanz
+303,Western Europe,Germany,Baden-Wurttemberg (State),Oberhausen-Rheinhausen
+321,Western Europe,Germany,Baden-Wurttemberg (State),Stuttgart
+350,Western Europe,Germany,Baden-Württemberg (State),Karlsruhe
+650,Western Europe,Germany,Baden-Württemberg (State),Stuttgart
+307,Western Europe,Germany,Bavaria (State),Aschaffenburg
+287,Western Europe,Germany,Bavaria (State),Munich
+693,Western Europe,Germany,Bavaria (State),Nuremberg
+286,Western Europe,Germany,Berlin (State),Berlin
+35,Western Europe,Germany,Hamburg (State),Hamburg
+176,Western Europe,Germany,Hesse (State),Darmstadt
+305,Western Europe,Germany,Hesse (State),Frankfurt
+635,Western Europe,Germany,Hesse (State),Wiesbaden
+289,Western Europe,Germany,Lower Saxony (State),Cuxhaven
+288,Western Europe,Germany,Lower Saxony (State),Wolfsburg
+407,Western Europe,Germany,Nordrhein-Westfalen (State),Pulheim
+398,Western Europe,Germany,Nordrhein-Westfalen (State),Solingen
+306,Western Europe,Germany,North Rhine-Westphalia (State),Bergisch Gladbach
+647,Western Europe,Germany,North Rhine-Westphalia (State),Bonn
+301,Western Europe,Germany,North Rhine-Westphalia (State),Dortmund
+296,Western Europe,Germany,North Rhine-Westphalia (State),Hattingen
+334,Western Europe,Germany,North Rhine-Westphalia (State),Munster
+290,Western Europe,Germany,North Rhine-Westphalia (State),Solingen
+309,Western Europe,Germany,North Rhine-Westphalia (State),Wuelfrath
+632,Western Europe,Greece,Attica (Periphery),Athens
+526,Western Europe,Italy,Catania (Province),Catania
+279,Western Europe,Italy,Florence (Province),Florence
+392,Western Europe,Italy,Milan (Province),Milan
+603,Western Europe,Italy,Padua (Province),Padua
+486,Western Europe,Italy,Pordenone (Province),Aviano
+257,Western Europe,Italy,Rome (Province),Pariolli
+156,Western Europe,Italy,Rome (Province),Rome
+363,Western Europe,Netherlands,South Holland (Province),The Hague
+576,Western Europe,Norway,Oslo (County),Oslo
+241,Western Europe,Spain,Basque Country (Autonomous Community),Unknown
+113,Western Europe,Spain,Madrid (Province),Madrid
+416,Western Europe,Spain,Murcia (Autonomous Community),La Manga del Mar Menor
+684,Western Europe,Spain,Pais Vasco (Autonomous Community),Bilbao
+593,Western Europe,Spain,Pais Vasco (Autonomous Community),Pamplona
+54,Western Europe,Spain,Pais Vasco (Autonomous Community),San Sebastian
+346,Western Europe,Switzerland,Berne (Canton),Berne
+640,Western Europe,Switzerland,Zurich (Canton),Zurich
+612,Western Europe,United Kingdom,England,Berkshire
+439,Western Europe,United Kingdom,England,Bournemouth
+614,Western Europe,United Kingdom,England,Brill
+376,Western Europe,United Kingdom,England,Cricklewood
+311,Western Europe,United Kingdom,England,Dunston
+312,Western Europe,United Kingdom,England,Gateshead
+564,Western Europe,United Kingdom,England,Hertfordshire
+170,Western Europe,United Kingdom,England,Huntingdon
+624,Western Europe,United Kingdom,England,Kensington
+19,Western Europe,United Kingdom,England,London
+218,Western Europe,United Kingdom,England,North Shields
+609,Western Europe,United Kingdom,England,Reading
+639,Western Europe,United Kingdom,England,Stoke Newington
+313,Western Europe,United Kingdom,England,Tyneside
+102,Western Europe,United Kingdom,England,Warrington
+33,Western Europe,United Kingdom,Northern Ireland,Andersonstown
+88,Western Europe,United Kingdom,Northern Ireland,Armagh
+332,Western Europe,United Kingdom,Northern Ireland,Ballymena
+1,Western Europe,United Kingdom,Northern Ireland,Belfast
+353,Western Europe,United Kingdom,Northern Ireland,Belleeks
+110,Western Europe,United Kingdom,Northern Ireland,Bessbrook
+92,Western Europe,United Kingdom,Northern Ireland,Carnan
+190,Western Europe,United Kingdom,Northern Ireland,Castlerock
+56,Western Europe,United Kingdom,Northern Ireland,Clogher
+623,Western Europe,United Kingdom,Northern Ireland,County Down
+344,Western Europe,United Kingdom,Northern Ireland,County Tyrone
+85,Western Europe,United Kingdom,Northern Ireland,Crossmaglen
+698,Western Europe,United Kingdom,Northern Ireland,Dundonald
+28,Western Europe,United Kingdom,Northern Ireland,Dungannon
+23,Western Europe,United Kingdom,Northern Ireland,Fermanagh
+747,Western Europe,United Kingdom,Northern Ireland,Fintona
+161,Western Europe,United Kingdom,Northern Ireland,Forkhill
+424,Western Europe,United Kingdom,Northern Ireland,Hilltown
+121,Western Europe,United Kingdom,Northern Ireland,Keady
+226,Western Europe,United Kingdom,Northern Ireland,Kildress
+522,Western Europe,United Kingdom,Northern Ireland,Lisburn
+13,Western Europe,United Kingdom,Northern Ireland,Lisnagleer
+34,Western Europe,United Kingdom,Northern Ireland,Londonderry
+349,Western Europe,United Kingdom,Northern Ireland,Lurgan
+275,Western Europe,United Kingdom,Northern Ireland,Magherafelt
+339,Western Europe,United Kingdom,Northern Ireland,Newry
+361,Western Europe,United Kingdom,Northern Ireland,Newtownards
+749,Western Europe,United Kingdom,Northern Ireland,Portadown
+32,Western Europe,United Kingdom,Northern Ireland,West Belfast
